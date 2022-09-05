@@ -2,7 +2,6 @@
 public class ShowCurrentTime {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
         //obtaion total milliseconds since UNIX epoch = Jan 1, 1970
         long totalMilliseconds = System.currentTimeMillis();
         //find total number of seconds

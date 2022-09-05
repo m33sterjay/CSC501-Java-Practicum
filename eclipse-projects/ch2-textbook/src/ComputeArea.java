@@ -2,7 +2,6 @@
 public class ComputeArea {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
         double radius; // declare radius
 		double area; // declare area
 		// assign a radius
