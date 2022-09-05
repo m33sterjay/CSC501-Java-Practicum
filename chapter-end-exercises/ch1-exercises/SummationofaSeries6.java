@@ -1,4 +1,4 @@
-package ch1exercises;
+
 
 public class SummationofaSeries6 {
 
