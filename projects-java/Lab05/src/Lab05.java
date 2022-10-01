@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 // CS501-ol - Lab06 - Jared Robbins
