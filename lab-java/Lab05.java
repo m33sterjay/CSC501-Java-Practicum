@@ -13,7 +13,7 @@ public class Lab05 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        // input prompt, assign as int; number
+        // input prompt, assign as String; number
         System.out.println("Enter a number to reverse:");
         int number = input.nextInt();
         // reads input and isolates each digit
