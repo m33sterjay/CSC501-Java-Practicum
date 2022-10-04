@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Ch6 graded project - CSC501 - Jared Robbins
-public class LuhnsAlgorithm {
+public class Exercise06_31 {
     /** Analysis:
      * A program that determines if a long integer input by the user
      * is a valid credit card number and outputs the result */
@@ -33,10 +33,10 @@ public class LuhnsAlgorithm {
     public static boolean cardValidate(long cardNumber) {
         // validate initial card criteria; int length , int firstDigit
         int length = (int) (Math.log10(cardNumber) + 1);
-        int firstDigit = cardNumber / Math.pow(10, length - 1));
+        long firstDigit = cardNumber / (long) Math.pow(10, length - 1);
         if (firstDigit >= 3 && firstDigit <= 6) {
             if (firstDigit == 3) {
-                int secondDigit = ((int) cardNumber / (int) Math.pow(10, length - 2) % 10);
+                long secondDigit = cardNumber / ((long) Math.pow(10, length - 2)) % 10;
                 if (secondDigit == 7) {
                     return true;
                 } else
@@ -49,11 +49,9 @@ public class LuhnsAlgorithm {
 
     // mod10Check():
     public static String mod10Check(long cardNumber) {
-        // read input, every 2nd digit starting from right * 2, store as int; firstSum - if number is double-digit, add digits then add to
-        // 'firstSum'
         int firstDigit = 0;
         int secondDigit = 0;
-        int digitSum = 0;
+        int digitSum = firstDigit + secondDigit;
         int oddDigit = 0;
         int firstSum = 0;
         int secondSum = 0;
@@ -61,11 +59,11 @@ public class LuhnsAlgorithm {
 
         for (int i = 0; cardNumber > 0; i++) {
             // sum all 'other' digits, store as int; secondSum
-            oddDigit = cardNumber % 10;
+            oddDigit = (int) (cardNumber % 10);
             secondSum += oddDigit;
             // read input, every 2nd digit starting from right * 2, store as int; firstSum - if number is double-digit, add digits
-            firstDigit = ((cardNumber % 100) * 2) / 10;
-            secondDigit = ((cardNumber % 100) * 2) % 10;
+            firstDigit = (int) (((cardNumber % 100) / 10) * 2) / 10;
+            secondDigit = (int) (((cardNumber % 100) / 10) * 2) % 10;
             firstSum += digitSum;
             // increment cardNumber reading location
             cardNumber /= 100;
