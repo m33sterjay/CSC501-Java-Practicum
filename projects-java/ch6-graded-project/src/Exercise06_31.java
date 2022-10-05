@@ -22,11 +22,22 @@ public class Exercise06_31 {
         // prompt for input, store as long; cardNumber
         System.out.print("Enter a credit card number: ");
         long cardNumber = input.nextLong();
+
         if (cardValidate(cardNumber)) {
             // output card number && 'valid' or 'invalid'
             System.out.printf("%d is " + mod10Check(cardNumber) + "\n", cardNumber);
         } else
             System.out.printf("%d is not a valid credit card number\n", cardNumber);
+
+        /*
+         * boolean flag = true;
+         * long count = 1000000000000L;
+         * while (flag) {
+         * flag = "valid".equals(mod10Check(count));
+         * System.out.println("" + count++ + ": " + flag);
+         * }
+         * System.out.println(count);
+         */
     }
 
     // cardValidate():
@@ -51,11 +62,10 @@ public class Exercise06_31 {
     public static String mod10Check(long cardNumber) {
         int firstDigit = 0;
         int secondDigit = 0;
-        int digitSum = firstDigit + secondDigit;
+        int digitSum = 0;
         int oddDigit = 0;
         int firstSum = 0;
         int secondSum = 0;
-        int finalSum = firstSum + secondSum;
 
         for (int i = 0; cardNumber > 0; i++) {
             // sum all 'other' digits, store as int; secondSum
@@ -64,10 +74,12 @@ public class Exercise06_31 {
             // read input, every 2nd digit starting from right * 2, store as int; firstSum - if number is double-digit, add digits
             firstDigit = (int) (((cardNumber % 100) / 10) * 2) / 10;
             secondDigit = (int) (((cardNumber % 100) / 10) * 2) % 10;
+            digitSum = firstDigit + secondDigit;
             firstSum += digitSum;
             // increment cardNumber reading location
             cardNumber /= 100;
         }
+        int finalSum = firstSum + secondSum;
         // sum of 'firstSum' && 'secondSum', store as int; finalSum
         if (finalSum % 10 == 0) {
             // if 'finalSum' % 10 == 0, card number is valid
