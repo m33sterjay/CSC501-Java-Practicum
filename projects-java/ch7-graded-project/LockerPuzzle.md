@@ -34,3 +34,16 @@
         }
         return -1;
     }
+
+    // initialize array of lockers, boolean[] lockers = new boolean[100]
+        // all lockers begin in 'closed' state, java.util.Arrays.fill(lockers, false)
+        // send [lockers] to enterStudents() to have students iterate upon the lockers
+        // send value of [lockers] to openLockers() to find the locker numbers of the open lockers
+        // all students enter the building and iterate upon lockers once
+            // loop through all lockers for every student
+                // if locker state is true, change to false, otherwise change to true
+        // return [lockers] with updated values 
+        // search through lockers
+            // look for lockers with a value of 'true'
+                // if the locker is 'open' display the locker number
+

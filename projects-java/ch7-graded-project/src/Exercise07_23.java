@@ -1,3 +1,5 @@
+package src;
+
 /** Ch7 graded project, CS501 - Jared Robbins - Locker Puzzle
  * A program that does not receive any user input, instead, it seeks to solve a given puzzle and output the correct answer.
  * PARAMETERS:
@@ -17,7 +19,7 @@
  * OUTPUT:
  * The program outputs a list of the lockers that are open, giving the locker 'number' and the 'state'
  * ex. Locker ( # ) is open */
-public class LockerPuzzle {
+public class Exercise07_23 {
 
     public static void main(String[] args) {
         // initialize array of lockers, boolean[] lockers = new boolean[100]
