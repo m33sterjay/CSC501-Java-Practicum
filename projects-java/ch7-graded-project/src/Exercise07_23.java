@@ -42,7 +42,7 @@ public class Exercise07_23 {
                         : true; // System.out.print(lockers[lockerNumber - 1] + " ");
             }
         } // System.out.println(java.util.Arrays.toString(lockers)); // tested first 5 values, they are what they should be
-        // return [lockers] with updated values 
+          // return [lockers] with updated values
         return lockers;
     }
 
@@ -53,7 +53,7 @@ public class Exercise07_23 {
             final boolean key = lockers[i] == true;
             if (key) {
                 // if the locker is 'open' display the locker number
-                System.out.println("Locker " + i + " is open");
+                System.out.println("Locker " + (i + 1) + " is open");
             }
         }
     }

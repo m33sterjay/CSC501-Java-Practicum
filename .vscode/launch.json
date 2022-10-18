@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch NumberTheory",
+            "request": "launch",
+            "mainClass": "NumberTheory",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Project_Ch_8",
+            "request": "launch",
+            "mainClass": "Project_Ch_8",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab_08",
+            "request": "launch",
+            "mainClass": "Lab_08",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch ch7Exercises",
+            "request": "launch",
+            "mainClass": "ch7Exercises",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiArrayPractice",
+            "request": "launch",
+            "mainClass": "MultiArrayPractice",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch ModExponentiation",
+            "request": "launch",
+            "mainClass": "ModExponentiation",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch DivisionAlgorithm",
+            "request": "launch",
+            "mainClass": "DivisionAlgorithm",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Launch LockerPuzzle",
             "request": "launch",
             "mainClass": "LockerPuzzle",
