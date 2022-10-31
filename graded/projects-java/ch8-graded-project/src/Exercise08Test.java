@@ -3,7 +3,6 @@ package src;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
-
 class Exercise08Test {
     @Test
     void test1() {
