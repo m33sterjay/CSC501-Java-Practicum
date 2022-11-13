@@ -1,0 +1,16 @@
+classDiagram
+    class Circle2D{
+    - x: double
+    - y: double
+    - radius: double
+    + Circle2D()
+    + Circle2D(newX: double, newY: double, newRadius: double)
+    + getX: double()
+    + getY: double()
+    + getRadius: double()
+    + getArea: double()
+    + getPerimeter: double()
+    + contains: boolean(x: double, y: double)
+    + contains: boolean(circle: Circle2D)
+    + overlaps: boolean(circle: Circle2D)
+}

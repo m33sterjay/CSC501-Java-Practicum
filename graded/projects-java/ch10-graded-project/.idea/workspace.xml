@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e1644cc-8966-467c-b803-34839ba56532" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../algorithms-302/DivisionAlgorithm 2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../algorithms-302/DivisionAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../algorithms-302/ModExponentiation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../algorithms-302/NumberTheory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter-end-exercises/objects-classes-practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch1-exercises/AreaandPerimeterofaCircle8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch1-exercises/AverageSpeedinKilometers12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch1-exercises/AverageSpeedinMiles10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch1-exercises/DisplayFiveMessages2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch1-exercises/PrintaTable4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch1-exercises/SummationofaSeries6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch2-exercises/ComputeTheVolumeOfACylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch2-exercises/ConvertPoundsToKilograms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch2-exercises/CurrentTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch2-exercises/HealthApplicationComputingBMI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch2-exercises/PhysicsFindingRunwayLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch2-exercises/ScienceCalculatingEnergy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch2-exercises/SumTheDigitsInAnInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/ch7and8-arrays/ch7Exercises.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise01_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise01_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise01_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise01_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise01_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise01_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise02_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise02_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise02_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise02_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise02_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise02_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise02_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise02_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise02_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise02_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise02_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise03_34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise04_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_40.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_42.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_44.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_46.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise05_50.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise06_38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise07_36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise08_36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise09_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise09_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise09_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise09_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise09_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise09_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise10_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise11_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise11_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise11_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise11_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise11_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise11_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise11_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise11_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise11_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise12_32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise13_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise13_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise13_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise13_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise13_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise13_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise13_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise13_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise13_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise13_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise14_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise15_36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise16_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise17_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise17_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise17_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise17_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise17_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise17_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise17_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise17_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise17_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise17_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise18_38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise19_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise19_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise19_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise19_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise19_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise20_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise20_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise20_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise20_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise20_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise20_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise20_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise20_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise20_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise20_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise20_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise21_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise21_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise21_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise21_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise21_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise21_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise21_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise22_28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise23_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise23_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise23_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise23_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise23_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise23_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise23_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise23_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise24_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise24_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise24_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise24_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise24_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise24_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise24_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise25_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise25_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise25_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise25_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise25_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise25_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise25_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise25_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise25_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise27_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise27_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise27_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise27_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise27_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise27_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise27_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise28_26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise29_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise29_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise29_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise29_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise29_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise29_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise29_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise29_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise29_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise29_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise30_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise30_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise30_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise30_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise30_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise30_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise30_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise30_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise30_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise31_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise31_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise31_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise31_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise31_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise31_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise31_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise31_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise31_18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise31_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise31_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise32_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise32_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise32_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise32_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise32_10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise32_12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise32_14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise32_16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise32_20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise32_22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise34_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise34_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise34_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise34_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise35_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise35_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise35_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise36_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise36_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise36_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/chapter-end-answers-even/Exercise36_08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/chapter-end-exercises/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/Ch2-text-problems/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/Ch2-text-problems/src/ComputeArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/Ch2-text-problems/src/ComputeAreaWithConsoleInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/Ch2-text-problems/src/ComputeAreaWithConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/Ch2-text-problems/src/ComputeChange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/Ch2-text-problems/src/ComputeLoan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/Ch2-text-problems/src/DisplayTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/Ch2-text-problems/src/FahrenheitToCelsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/Ch2-text-problems/src/SalesTax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/Ch2-text-problems/src/ShowCurrentTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch1-welcome-to-java/ComputeExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch1-welcome-to-java/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch1-welcome-to-java/WelcomeWithThreeMessages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-elementary-programming/ComputeArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-elementary-programming/ComputeAreaWithConsoleInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-elementary-programming/ComputeAreaWithConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-elementary-programming/ComputeChange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-elementary-programming/ComputeLoan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-elementary-programming/DisplayTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-elementary-programming/FahrenheitToCelsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-elementary-programming/SalesTax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-elementary-programming/ShowCurrentTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-textbook/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-textbook/src/ComputeArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-textbook/src/ComputeAreaWithConsoleInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-textbook/src/ComputeAreaWithConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-textbook/src/ComputeChange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-textbook/src/ComputeLoan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-textbook/src/DisplayTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-textbook/src/FahrenheitToCelsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-textbook/src/SalesTax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch2-textbook/src/ShowCurrentTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch3-selections/AdditionsQuiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch3-selections/CheckpointThreeQuestions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch3-selections/ChineseZodiac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch3-selections/ComputeAndInterpretBMI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch3-selections/ComputeTax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch3-selections/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch3-selections/Lottery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch3-selections/SimpleIfDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch3-selections/SubractionQuiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch3-selections/TestBooleanOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch4-math-char-strings/ComputeAngles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch4-math-char-strings/OrderTwoCities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch4-math-char-strings/ReadString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch6-text/GreatestCommonDivisorMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch6-text/Hex2Dec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch6-text/Increment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch6-text/MethodDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch6-text/PrimeNumberMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch6-text/TestMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch6-text/TestMethodOverloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch6-text/TestReturnGradeMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch6-text/TestVoidMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch6-text/TestpassByValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch7-text/AnalyzeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch7-text/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch7-text/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch7-text/CountLettersInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch7-text/DeckOfCards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch7-text/LinearSearch 2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch7-text/SearchAndSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch7-text/TestPassArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch7-text/TestSearchAndSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/text-examples/ch7-text/VarArgsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch9-graded-project/src/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch9-graded-project/src/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch9-graded-project/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch9-graded-project/src/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HSXQrk6auJtqVaT1nj8YWAB1eq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "create.test.in.the.same.root": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="Exercise10_11" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Circle2DTest.containsPoint">
+    <configuration name="Circle2DTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch10-graded-project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Circle2DTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle2DTest.containsPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch10-graded-project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Circle2DTest" />
+      <option name="METHOD_NAME" value="containsPoint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle2DTest.getX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch10-graded-project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Circle2DTest" />
+      <option name="METHOD_NAME" value="getX" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Circle2DTest.containsPoint" />
+        <item itemvalue="JUnit.Circle2DTest.getX" />
+        <item itemvalue="JUnit.Circle2DTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e1644cc-8966-467c-b803-34839ba56532" name="Changes" comment="" />
+      <created>1668279448122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668279448122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
