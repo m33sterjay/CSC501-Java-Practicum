@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch runQuadraticEquations",
+            "request": "launch",
+            "mainClass": "main.runQuadraticEquations",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch TestStock",
+            "request": "launch",
+            "mainClass": "TestStock",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Launch NumberTheory",
             "request": "launch",
             "mainClass": "NumberTheory",
